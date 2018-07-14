@@ -1,0 +1,11 @@
+C:\Users\Łukasz\source\repos\ServerClient\ServerClient\bin\Debug\ServerClient.exe.config
+C:\Users\Łukasz\source\repos\ServerClient\ServerClient\bin\Debug\ServerClient.exe
+C:\Users\Łukasz\source\repos\ServerClient\ServerClient\bin\Debug\ServerClient.pdb
+C:\Users\Łukasz\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.csprojAssemblyReference.cache
+C:\Users\Łukasz\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.exe
+C:\Users\Łukasz\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.pdb
+C:\Users\Łukasz\source\repos\ServerClient\ServerClient\bin\Debug\ServerClient.exe.manifest
+C:\Users\Łukasz\source\repos\ServerClient\ServerClient\bin\Debug\ServerClient.application
+C:\Users\Łukasz\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.exe.manifest
+C:\Users\Łukasz\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.application
